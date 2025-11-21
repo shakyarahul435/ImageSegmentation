@@ -38,14 +38,14 @@ Perfect for disaster response, insurance assessment, or urban monitoring.
 
 ### Requirements
 
-- Python 3.10–3.11
+- Python 3.11
 - CUDA-capable GPU recommended (works on CPU too)
 
 ### Installation
 
 ```bash
 # 1. Create virtual environment (recommended)
-python3.11 -m venv seg-env
+py -3.11 -m venv seg-env
 source seg-env/bin/activate    # Linux/Mac
 # or
 seg-env\Scripts\activate      # Windows
